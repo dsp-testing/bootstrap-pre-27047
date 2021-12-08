@@ -1,0 +1,7 @@
+name: dsp-testing/bootstrap-pre-27047
+library: false
+version: 0.0.1
+extractor: javascript
+defaultSuiteFile: ctf.qls
+dependencies:
+  codeql/javascript-all: "*"

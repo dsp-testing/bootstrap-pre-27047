@@ -1,0 +1,3 @@
+disable-default-queries: true
+queries:
+  - uses: ./codeql-ctf/ctf.qls
